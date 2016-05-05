@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[peterstoyanov.com]]></title>
+        <description><![CDATA[peterstoyanov.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 10:55:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Peter Stoyanov - Pepe is performer, musician, a clown and a teacher. Student and long years colleague of Kenny The Clown and Hand Theatre - Bulgaria, where he worked until 2012. He is actor, co-script writer and music creator for most of the plays of Hand Theatre. There he studied stand-up comedy, clown, puppet theatre, drama theatre.</p>]]></description>
+            <link>undefinedpeter-stoyanov-pepe-is-performer-musician-a-clown-and-a/index.html</link>
+            <guid isPermaLink="false">c918e7fb-3423-457b-ac23-e8f634d857d6</guid>
+            <pubDate>Thu, 05 May 2016 10:55:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
