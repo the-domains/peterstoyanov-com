@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-14T11:43:53.069Z'
-dateModified: '2016-05-14T11:43:24.382Z'
+datePublished: '2016-05-14T11:47:13.187Z'
+dateModified: '2016-05-14T11:46:53.478Z'
 title: Why Should Adults Play
 author: []
+sourcePath: _posts/2016-05-14-why-should-adults-play.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-14-why-should-adults-play.md
 _context: 'http://schema.org'
 _type: Article
 
