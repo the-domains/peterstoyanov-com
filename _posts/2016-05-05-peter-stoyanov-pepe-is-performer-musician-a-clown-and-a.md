@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Peter Stoyanov - Pepe is performer, musician, a clown and a teacher. Student and long years colleague of Kenny The Clown and Hand Theatre - Bulgaria, where he worked until 2012. He is actor, co-script writer and music creator for most of the plays of Hand Theatre. There he studied stand-up comedy, clown, puppet theatre, drama theatre.'
-datePublished: '2016-05-05T10:57:41.879Z'
-dateModified: '2016-05-05T10:56:55.036Z'
+datePublished: '2016-05-14T11:51:28.029Z'
+dateModified: '2016-05-05T10:57:48.396Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-peter-stoyanov-pepe-is-performer-musician-a-clown-and-a.md
@@ -24,6 +24,5 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dc9677f-3512-47fe-88a9-918dfa944786.jpg)
 
 Peter Stoyanov - Pepe is performer, musician, a clown and a teacher. Student and long years colleague of Kenny The Clown and Hand Theatre - Bulgaria, where he worked until 2012\. He is actor, co-script writer and music creator for most of the plays of[Hand Theatre][0]. There he studied stand-up comedy, clown, puppet theatre, drama theatre.
-
 
 [0]: www.handtheatre.com
